@@ -13,12 +13,9 @@
 <br>
 - <b>JavaScript</b>
 <br>
-<br>
 - <b>3DS Max</b>
 <br>
-<br>
 - <b>Zbrush</b>
-<br>
 <br>
 - <b>PhotoShop</b>
 <br>
