@@ -30,7 +30,7 @@
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="Alonso Frelijj | YouTube" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Ffree-png-ibovn&psig=AOvVaw0m0P0dqUXwv6geWFZchRW_&ust=1695318753693000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCqoNLguYEDFQAAAAAdAAAAABAd" />][youtube]
+[<img align="left" alt="Alonso Frelijj | YouTube" width="22px" src="https://e7.pngegg.com/pngimages/422/993/png-clipart-youtube-application-youtube-computer-icons-logo-you-tube-angle-rectangle.png" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UClCaMIFsUjXzIi8aYBs91Gw
