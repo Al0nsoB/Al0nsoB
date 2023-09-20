@@ -33,9 +33,8 @@
 [<img align="left" alt="Alonso Frelijj | YouTube" width="22px" src="https://www.youtube.com/channel/UClCaMIFsUjXzIi8aYBs91Gw" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/alonso-frelijj-3242b2258/" />][linkedin]
 
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[youtube]: https://www.youtube.com/channel/UClCaMIFsUjXzIi8aYBs91Gw
+[linkedin]: https://www.linkedin.com/in/alonso-frelijj-3242b2258/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
