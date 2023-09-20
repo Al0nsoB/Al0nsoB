@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alonso!</h1>
 
-<p> I'm a future videogame programer and since i was a kid I have a lot of interest in videogames, programming and tecnology  </p>
+<p> I'm a future videogame programer and since i was a kid I have a lot of interest in videogames, programming and tecnology, here you can see some projects that I made on IFP  </p>
 
 <h2> Multiplatform Application Developer </h2>
 <h3>Skills</h3>
