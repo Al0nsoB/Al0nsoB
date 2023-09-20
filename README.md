@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alonso!</h1>
 
-<p> This is a little information about my projects on IFP and you can se my differents skills </p>
+<p> I'm a future videogame programer and since i was a kid I have a lot of interest in videogames, programming and tecnology  </p>
 
 <h2> Multiplatform Application Developer </h2>
 <h3>Skills</h3>
@@ -26,8 +26,6 @@
 - [Recipes Web](https://www.youtube.com/watch?v=sHrQLqt_XeE)
 - [JavaScript Card Game](https://www.youtube.com/watch?v=XmVgBxOIhxs)
 - [Puzzle Game](https://www.youtube.com/watch?v=DSo6AuGr4DA)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> Connect with me:</h2>
 
