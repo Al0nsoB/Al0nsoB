@@ -2,7 +2,7 @@
 
 <h2> Multiplatform Application Developer </h2>
 
-<h3>Skils</h3>
+<h3>Skills</h3>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b></i>
 - <b>PowerShell</b>
@@ -11,9 +11,9 @@
 
 <h2> Projects</h2>
 
-- [Recipes Web](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [JavaScript Card Game](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Puzzle Game](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Recipes Web](https://www.youtube.com/watch?v=sHrQLqt_XeE)
+- [JavaScript Card Game](https://www.youtube.com/watch?v=XmVgBxOIhxs)
+- [Puzzle Game](https://www.youtube.com/watch?v=DSo6AuGr4DA)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
