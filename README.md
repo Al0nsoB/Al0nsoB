@@ -1,5 +1,7 @@
 <h1>Hi, I'm Alonso!</h1>
 
+<p> This is a little information about my projects on IFP and you can se my differents skills </p>
+
 <h2> Multiplatform Application Developer </h2>
 <h3>Skills</h3>
 - <b>C++</b>
