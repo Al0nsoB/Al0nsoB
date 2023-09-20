@@ -1,9 +1,6 @@
 <h1>Hi, I'm Alonso!</h1>
 
 <h2> Multiplatform Application Developer </h2>
-
-<p>  </p>
-
 <h3>Skills</h3>
 - <b>C++</b>
 <br>
