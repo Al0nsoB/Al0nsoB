@@ -2,7 +2,7 @@
 
 <h2> Multiplatform Application Developer </h2>
 
-<p> Im a future videogame programer who is in his second year of superior grade in IFP </p>
+<p>  </p>
 
 <h3>Skills</h3>
 - <b>C++</b>
