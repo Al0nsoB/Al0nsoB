@@ -31,7 +31,7 @@
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="Alonso Frelijj | YouTube" width="22px" src="https://e7.pngegg.com/pngimages/422/993/png-clipart-youtube-application-youtube-computer-icons-logo-you-tube-angle-rectangle.png" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UClCaMIFsUjXzIi8aYBs91Gw
 [linkedin]: https://www.linkedin.com/in/alonso-frelijj-3242b2258/
