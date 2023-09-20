@@ -30,7 +30,7 @@
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://www.youtube.com/channel/UClCaMIFsUjXzIi8aYBs91Gw" />][youtube]
+[<img align="left" alt="Alonso Frelijj | YouTube" width="22px" src="https://www.youtube.com/channel/UClCaMIFsUjXzIi8aYBs91Gw" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/alonso-frelijj-3242b2258/" />][linkedin]
 
 [youtube]: https://www.youtube.com/c/joshmadakor
