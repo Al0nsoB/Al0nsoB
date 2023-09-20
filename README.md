@@ -3,17 +3,18 @@
 <h2> Multiplatform Application Developer </h2>
 
 <h3>Skills</h3>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>C++</b>
 <br>
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b></i>
+- <b>C#</b></i>
 <br>
-- <b>PowerShell</b>
+- <b>HTML</b>
 <br>
-- <b>C# (.NET Desktop Applications)</b>
+- <b>CSS</b>
 <br>
-- <b>Python</b>
+- <b>JavaScript</b>
 <br>
-<h2> Projects</h2>
+
+<h2> Projects </h2>
 
 - [Recipes Web](https://www.youtube.com/watch?v=sHrQLqt_XeE)
 - [JavaScript Card Game](https://www.youtube.com/watch?v=XmVgBxOIhxs)
