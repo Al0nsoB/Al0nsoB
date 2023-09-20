@@ -4,11 +4,15 @@
 
 <h3>Skills</h3>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+<br>
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b></i>
+<br>
 - <b>PowerShell</b>
+<br>
 - <b>C# (.NET Desktop Applications)</b>
+<br>
 - <b>Python</b>
-
+<br>
 <h2> Projects</h2>
 
 - [Recipes Web](https://www.youtube.com/watch?v=sHrQLqt_XeE)
